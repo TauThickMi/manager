@@ -1,0 +1,1 @@
+<?php if (!defined('ACCESS')) die('Not access'); else $databases = array('db_host' => 'localhost', 'db_username' => 'adminbCkWYnb', 'db_password' => 'EilWqIjpa1Nf', 'db_name' => 'itgroup', 'is_auto' => true); ?>
