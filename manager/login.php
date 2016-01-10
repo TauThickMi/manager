@@ -1,4 +1,4 @@
-<?php
+Aaa<?php
 
     define('ACCESS', true);
     define('LOGIN', true);
